@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "ms": "^2.1.3"
+  }
+}
